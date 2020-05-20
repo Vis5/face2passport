@@ -14,7 +14,7 @@ pip3 install -r requirements.txt
 
 **Training**
 
-Already trained model is in the results folder. If it is not present, please download from LINK HERE
+Already trained model is in the results folder. If it is not present, please download from https://drive.google.com/drive/folders/1UbUAbGyZInt6Qt4PDI2s6YR8SAfexuUh
 
 To generate your own model:
 
