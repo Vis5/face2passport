@@ -1,0 +1,6 @@
+tensorflow-gpu==1.14
+Pillow
+tqdm
+requests
+keras
+dlib
